@@ -35,7 +35,7 @@ public class ContaVogais {
 		
 		System.out.println("String: ("+str+") = " + contador(str));
 	}
-		// TODO Auto-generated method stub
+		
 
 	
 }
